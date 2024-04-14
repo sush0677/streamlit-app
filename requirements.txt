@@ -3,3 +3,7 @@ numpy
 pandas
 pydeck
 streamlit
+azure.identity
+langchain
+openai
+langchain_openai
